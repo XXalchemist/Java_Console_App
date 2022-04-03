@@ -1,9 +1,7 @@
 ## Project Brief
-#### Name Of Employee : Narayan Krishna
 #### Employee Id : 3155150
 #### Name of Project : School Data Simple Query System
-#### Type : NAGP Java Core Assignment
-#### Date of submission : 23 March 2022
+#### Type : Java Core Assignment
 
 ## How to run project
 	1. Open eclipse ide
